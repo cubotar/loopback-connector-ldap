@@ -22,6 +22,7 @@
   "dependencies": {
     "debug": "^2.6.0",
     "ldapjs": "^1.0.1",
-    "loopback-connector": "^3.0.0"
+    "loopback-connector": "^3.0.0",
+    "strong-globalize": "^2.8.2"
   }
 }
