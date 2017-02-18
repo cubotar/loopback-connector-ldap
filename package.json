@@ -1,28 +1,103 @@
 {
-  "name": "loopback-connector-ldap",
-  "version": "1.0.0",
-  "description": "Just a simple loopback LDAP connector",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cubotar/loopback-connector-ldap.git"
-  },
-  "keywords": [
-    "ldap"
+  "_args": [
+    [
+      {
+        "raw": "loopback-connector-ldap",
+        "scope": null,
+        "escapedName": "loopback-connector-ldap",
+        "name": "loopback-connector-ldap",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Lab\\TGRMBaaS"
+    ]
   ],
-  "author": "Mohamed KOUTAR <koutar.mohamed@gmail.com>",
-  "license": "MIT",
+  "_from": "loopback-connector-ldap@latest",
+  "_id": "loopback-connector-ldap@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/loopback-connector-ldap",
+  "_nodeVersion": "4.2.6",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/loopback-connector-ldap-1.0.0.tgz_1486210634072_0.6338788659777492"
+  },
+  "_npmUser": {
+    "name": "cubotar",
+    "email": "koutar.mohamed@gmail.com"
+  },
+  "_npmVersion": "3.5.2",
+  "_phantomChildren": {
+    "asn1": "0.2.3",
+    "core-util-is": "1.0.2",
+    "dashdash": "1.14.1",
+    "moment": "2.17.1",
+    "mv": "2.1.1",
+    "once": "1.4.0",
+    "precond": "0.2.3",
+    "safe-json-stringify": "1.0.3"
+  },
+  "_requested": {
+    "raw": "loopback-connector-ldap",
+    "scope": null,
+    "escapedName": "loopback-connector-ldap",
+    "name": "loopback-connector-ldap",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/loopback-connector-ldap/-/loopback-connector-ldap-1.0.0.tgz",
+  "_shasum": "aec5d56bc9069d01cf12a3026da2a19bb9549f24",
+  "_shrinkwrap": null,
+  "_spec": "loopback-connector-ldap",
+  "_where": "C:\\Lab\\TGRMBaaS",
+  "author": {
+    "name": "Mohamed KOUTAR",
+    "email": "koutar.mohamed@gmail.com"
+  },
   "bugs": {
     "url": "https://github.com/cubotar/loopback-connector-ldap/issues"
   },
-  "homepage": "https://github.com/cubotar/loopback-connector-ldap#readme",
   "dependencies": {
     "debug": "^2.6.0",
     "ldapjs": "^1.0.1",
     "loopback-connector": "^3.0.0",
     "strong-globalize": "^2.8.2"
-  }
+  },
+  "description": "Just a simple loopback LDAP connector",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "aec5d56bc9069d01cf12a3026da2a19bb9549f24",
+    "tarball": "https://registry.npmjs.org/loopback-connector-ldap/-/loopback-connector-ldap-1.0.0.tgz"
+  },
+  "gitHead": "bb3bbbb4e0c30c488f6eda14dfd9bd71b8ab854e",
+  "homepage": "https://github.com/cubotar/loopback-connector-ldap#readme",
+  "keywords": [
+    "ldap"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "cubotar",
+      "email": "koutar.mohamed@gmail.com"
+    }
+  ],
+  "name": "loopback-connector-ldap",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cubotar/loopback-connector-ldap.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
 }
